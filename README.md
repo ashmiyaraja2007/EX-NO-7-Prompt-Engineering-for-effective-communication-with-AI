@@ -1,11 +1,20 @@
 # EX-NO-7-Prompt-Engineering-for-effective-communication-with-AI
 ## AIM
 The main purpose of prompt engineering is to guide artificial intelligence models to produce accurate, relevant, and useful outputs by designing clear and structured instructions. Prompt engineering is the process of structuring an instruction so an AI model gives an accurate and useful response
+## OBJECTIVE
+To understand the concept of prompt engineering. .To learn different prompting techniques.
+.To design effective prompts for AI models. .To analyze the quality of AI‐generated outputs.
 ### GOALS OF PROMPT ENGINEERING
 •	Improve Accuracy: Reduce errors and wrong facts (hallucinations) by giving the AI precise context and rules.
 •	Control Tone and Format: Ensure the AI replies in a specific style, length, or layout (like bullet points, JSON code, or a friendly voice).
 •	Handle Complex Tasks: Break hard problems into smaller steps using methods like chain-of-thought reasoning.
 •	Bridge Vague Inputs: Help everyday user requests turn into structured, actionable commands that an AI application can actually process. 
+## PROCEDURE
+1.Select an AI application or chatbot. 2.Identify the task that needs to be performed. 3.Write
+a clear and specific prompt. 4.Add relevant context, role, constraints, and desired output
+format. 5.Submit the prompt to the AI model. 6.Observe and evaluate the generated output.
+7.Refine the prompt based on the output. 8.Compare the results and select the most
+effective prompt.
 
 ## PROMPTING TECHNIQUES
 1. Zero-Shot Prompting
